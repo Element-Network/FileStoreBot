@@ -1,20 +1,20 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "",
+        "api_id": "",
+        "api_hash": "",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_uri": "",
         "db_name": "name",
         "fsubs": [[-1002446928034, true, 5]],
         "db": -1002230333431,
         "auto_del": 0,
         "messages": {
-            "START": "<blockquote expandable>__Hi  I am advance file store bot __</blockquote>",
+            "START": "<blockquote expandable>__Hi {mention}, I am advance file store bot. ID 🪪 = {id} Username = {username}__</blockquote>",
             "FSUB": "",
             "ABOUT": "ABOUT MSG",
-            "REPLY": "reply_text",
+            "REPLY": "Wait",
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
