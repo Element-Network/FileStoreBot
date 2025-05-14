@@ -7,19 +7,19 @@
         "workers": 8,
         "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
+        "fsubs": [[-1002446928034, true, 5]],
+        "db": -1002230333431,
         "auto_del": 0,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
+            "START": "<blockquote expandable>__Hi  I am advance file store bot __</blockquote>",
             "FSUB": "",
             "ABOUT": "ABOUT MSG",
             "REPLY": "reply_text",
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [78324663, 73468932],
+        "admins": [1335306418],
         "disable_btn": true,
-        "protect": false
+        "protect": true
     }
 ]
