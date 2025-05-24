@@ -21,5 +21,74 @@
         "admins": [1335306418],
         "disable_btn": true,
         "protect": true
+    },
+    {
+        "session": "ses",
+        "token": "",
+        "api_id": "",
+        "api_hash": "",
+        "workers": 8,
+        "db_uri": "",
+        "db_name": "name",
+        "fsubs": [[-1002446928034, true, 5]],
+        "db": -1002230333431,
+        "auto_del": 0,
+        "messages": {
+            "START": "<blockquote expandable>__Hi {mention}, I am advance file store bot. ID 🪪 = {id} Username = {username}__</blockquote>",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "Wait",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [1335306418],
+        "disable_btn": true,
+        "protect": true
+    },
+    {
+        "session": "ses",
+        "token": "",
+        "api_id": "",
+        "api_hash": "",
+        "workers": 8,
+        "db_uri": "",
+        "db_name": "name",
+        "fsubs": [[-1002446928034, true, 5]],
+        "db": -1002230333431,
+        "auto_del": 0,
+        "messages": {
+            "START": "<blockquote expandable>__Hi {mention}, I am advance file store bot. ID 🪪 = {id} Username = {username}__</blockquote>",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "Wait",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [1335306418],
+        "disable_btn": true,
+        "protect": true
+    },
+    {
+        "session": "ses",
+        "token": "",
+        "api_id": "",
+        "api_hash": "",
+        "workers": 8,
+        "db_uri": "",
+        "db_name": "name",
+        "fsubs": [[-1002446928034, true, 5]],
+        "db": -1002230333431,
+        "auto_del": 0,
+        "messages": {
+            "START": "<blockquote expandable>__Hi {mention}, I am advance file store bot. ID 🪪 = {id} Username = {username}__</blockquote>",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "Wait",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [1335306418],
+        "disable_btn": true,
+        "protect": true
     }
 ]
